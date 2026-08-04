@@ -35,7 +35,7 @@ export default function Navbar() {
         {/* CTA */}
 
         <a
-          href="tel:+16476736360"
+          href="tel:+16473636461"
           className="btn-primary hidden md:inline-flex"
         >
           <Phone size={18} className="mr-2" />
